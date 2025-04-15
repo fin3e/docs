@@ -1,2 +1,2 @@
-# docs
-Docs for fin3e application
+# Docs
+Manuals for fin3e.
